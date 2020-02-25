@@ -103,9 +103,26 @@ table a {color: black;}
 
 section{ width: 600px;
         float: right;
-        align-content: center;}
+        align-content: center;
+        padding-bottom:30px;}
+
+label {
+    float: left;    
+    width: 6em;
+    text-align: right;}
+
+input {
+    width: 25em;
+    margin-left: 1em;
+    margin-bottom: .5em;}
+#button {
+    width: 10em;
+    margin-left: 7em;
+    background-color: orange;
+    border-color: black;}
 
 
+    
 aside{
     width: 180px;
     padding-right: 25px;
